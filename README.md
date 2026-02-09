@@ -1,6 +1,6 @@
 # 🛡️ PRAETOR: CV Self-Assessment Helper (v5.5 STABLE)
 
-> **Heuristic, Data-Driven Resume Evaluation Engine (System Prompt)**
+> **TOTAL FREE, Heuristic, Data-Driven Resume Evaluation Engine (System Prompt)**
 >
 > *Created by **FRIULANIKA CORP.** — "The future is inevitable"*
 
