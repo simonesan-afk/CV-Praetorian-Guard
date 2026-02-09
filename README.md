@@ -31,10 +31,10 @@ Developed by **Friulanika Corp.**, it acts as a heuristic engine to analyze the 
 * [cite_start]**🛡️ Privacy-First Logic:** Automatically detects and flags Personal Identifiable Information (PII) if accidentally included, advising the user to redact it[cite: 10, 12].
 * **⚖️ Anti-Bias Experience Scoring:** Recognizes human context. [cite_start]Career gaps (>6 months) labeled as caregiving, health, or education are **not penalized**[cite: 28].
 * **📊 Heuristic Scoring Model:** Provides an indicative score out of 100 based on four pillars:
-    * [cite_start]Hard Skills (Semantic Coverage) [cite: 20]
-    * [cite_start]Experience (Context-Aware) [cite: 25]
-    * [cite_start]Quantified Impact (Metrics & Data) [cite: 33]
-    * [cite_start]ATS Optimization (Keyword Visibility) [cite: 35]
+    * [cite_start]**Hard Skills** (Semantic Coverage) [cite: 20]
+    * [cite_start]**Experience** (Context-Aware) [cite: 25]
+    * [cite_start]**Quantified Impact** (Metrics & Data) [cite: 33]
+    * [cite_start]**ATS Optimization** (Keyword Visibility) [cite: 35]
 * [cite_start]**🧠 Educational Feedback:** Instead of just saying "bad resume," it explains *why* and provides tactical fixes[cite: 30].
 
 ## 🚀 How to Use
@@ -60,7 +60,7 @@ The total score (100 points) is calculated as follows:
 
 This project is licensed under the **MIT License**.
 
-**Ethical Note:** While the MIT license permits broad use of the software, the **Friulanika Corp.** strongly advises against using this prompt for automated rejection of candidates in a professional hiring context. [cite_start]The logic is tuned for *self-assessment* and *educational feedback*, not for making employment decisions[cite: 4, 5].
+**Ethical Note:** While the MIT license permits broad use of the software, **Friulanika Corp.** strongly advises against using this prompt for automated rejection of candidates in a professional hiring context. [cite_start]The logic is tuned for **self-assessment** and **educational feedback**, not for making employment decisions[cite: 4, 5].
 
 ---
 *© 2024 Friulanika Corp.*
