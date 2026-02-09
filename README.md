@@ -1,4 +1,4 @@
-# 🛡️ PRAETOR: CV Self-Assessment Helper (v5.5 STABLE)
+# 🛡️ PRAETOR: FREE CV Self-Assessment Helper (v5.5 STABLE)
 
 > **TOTAL FREE, Heuristic, Data-Driven Resume Evaluation Engine (System Prompt)**
 >
