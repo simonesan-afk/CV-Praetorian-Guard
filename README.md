@@ -16,7 +16,6 @@
 
 Developed by **Friulanika Corp.**, it acts as a heuristic engine to analyze the alignment between a **Curriculum Vitae (CV)** and a **Job Description (JD)**. Unlike standard AI summaries, PRAETOR uses a strict scoring logic, enforces privacy protocols, and applies anti-bias context to career gaps.
  (Keyword Visibility)
-* **🧠 Educational Feedback:** Instead of just saying "bad resume," it explains *why* and provides tactical fixes.
 
 ## 🚀 HOW TO USE
 
@@ -35,6 +34,7 @@ Developed by **Friulanika Corp.**, it acts as a heuristic engine to analyze the 
     * **Experience** (Context-Aware)
     * **Quantified Impact** (Metrics & Data)
     * **ATS Optimization**
+ * **🧠 Educational Feedback:** Instead of just saying "bad resume," it explains *why* and provides tactical fixes.
 ## 🧮 Scoring Logic
 
 The total score (100 points) is calculated as follows:
