@@ -51,7 +51,7 @@ Follow these steps to initialize the evaluation engine:
     * ATS Optimization
 * **🎓 Educational Feedback:** Instead of just saying "bad resume," it explains *why* and provides tactical fixes.
 
-## Scoring Logic
+### Scoring Logic
 
 The total score (100 points) is calculated as follows:
 
@@ -64,13 +64,13 @@ The total score (100 points) is calculated as follows:
 
 ---
 
-## License & Ethical Use
+### License & Ethical Use
 
 This project is licensed under the **MIT License**.
 
 > **Ethical Note:** While the MIT license permits broad use of the software, **Friulanika Corp.** strongly advises against using this prompt for automated rejection of candidates in a professional hiring context. The logic is tuned for **self-assessment** and **educational feedback**, not for making employment decisions.
 
-## ⚠️ LEGAL & ETHICAL DISCLAIMER (READ FIRST)
+### ⚠️ LEGAL & ETHICAL DISCLAIMER (READ FIRST)
 
 **THIS TOOL IS DESIGNED FOR EDUCATIONAL AND PERSONAL REFLECTION ONLY.**
 
