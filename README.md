@@ -27,9 +27,9 @@ Developed by **Friulanika Corp.**, it acts as a heuristic engine to analyze the 
 
 ## Key Features
 
-* ** Privacy-First Logic:** Automatically detects and flags Personal Identifiable Information (PII) if accidentally included, advising the user to redact it.
-* ** Anti-Bias Experience Scoring:** Recognizes human context. Career gaps (>6 months) labeled as caregiving, health, or education are **not penalized**.
-* ** Heuristic Scoring Model:** Provides an indicative score out of 100 based on four pillars:
+** Privacy-First Logic:** Automatically detects and flags Personal Identifiable Information (PII) if accidentally included, advising the user to redact it.
+** Anti-Bias Experience Scoring:** Recognizes human context. Career gaps (>6 months) labeled as caregiving, health, or education are **not penalized**.
+** Heuristic Scoring Model:** Provides an indicative score out of 100 based on four pillars:
     * **Hard Skills** (Semantic Coverage)
     * **Experience** (Context-Aware)
     * **Quantified Impact** (Metrics & Data)
