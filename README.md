@@ -22,7 +22,7 @@ https://hf.co/spaces/Astrodeism/CV-Praetorian-Guard
 
 
 ---
-# 🚀 HOW TO USE
+# 🚀 HOW TO USE THE PROMPT
 
 Follow these steps to initialize the evaluation engine:
 
