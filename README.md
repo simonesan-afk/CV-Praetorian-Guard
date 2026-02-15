@@ -10,7 +10,7 @@
 ![Maintained By](https://img.shields.io/badge/maintained_by-FRIULANIKA_CORP.-purple)
 
 ---
-# 🚀 TRY DEMO!
+# 🚀 TRY FULL DEMO!
 
 **above:** paste your cv (remove sensitive data)
 
