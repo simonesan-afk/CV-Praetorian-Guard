@@ -87,8 +87,7 @@ This project is licensed under the **MIT License**.
 3.  **PRIVACY WARNING:** Do not upload unredacted personal data (PII) to public LLMs. **Always remove names, phones, emails, and addresses before use**.
 
 ---
-*Always check AI outputs for your safety!*
-Give me FeedBack if You want
+*ALWAYS CHECK AI OUT FOR YOUR SAFETY*
 
 ---
  *Created by **FRIULANIKA CORP.** — "The future is inevitable"* 
