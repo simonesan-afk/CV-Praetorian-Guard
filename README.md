@@ -18,7 +18,7 @@
 
 **right side:** copy and paste everything into your preferred ai chat (most powerful option, if available)
 
-https://hf.co/spaces/Astrodeism/CV-Praetorian-Guard    Click here to start demo!
+Click here to start demo!  https://hf.co/spaces/Astrodeism/CV-Praetorian-Guard    
 
 
 ---
@@ -87,7 +87,7 @@ This project is licensed under the **MIT License**.
 3.  **PRIVACY WARNING:** Do not upload unredacted personal data (PII) to public LLMs. **Always remove names, phones, emails, and addresses before use**.
 
 ---
-**Always check AI outputs for your safety!**
+*Always check AI outputs for your safety!*
 Give me FeedBack if You want
 
 ---
