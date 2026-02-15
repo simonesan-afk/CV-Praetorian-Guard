@@ -10,8 +10,8 @@
 ![Maintained By](https://img.shields.io/badge/maintained_by-FRIULANIKA_CORP.-purple)
 
 ---
-
-
+# 🚀 TRY DEMO!
+https://hf.co/spaces/Astrodeism/CV-Praetorian-Guard
 
 ---
 # 🚀 HOW TO USE
