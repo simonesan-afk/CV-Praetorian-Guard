@@ -11,7 +11,6 @@
 
 ---
 # 🚀 TRY DEMO!
-https://hf.co/spaces/Astrodeism/CV-Praetorian-Guard
 
 **above:** paste your cv (remove sensitive data)
 
@@ -19,6 +18,7 @@ https://hf.co/spaces/Astrodeism/CV-Praetorian-Guard
 
 **right side:** copy and paste everything into your preferred ai chat (most powerful option, if available)
 
+https://hf.co/spaces/Astrodeism/CV-Praetorian-Guard    Click here to start demo!
 
 
 ---
