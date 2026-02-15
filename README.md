@@ -13,6 +13,14 @@
 # 🚀 TRY DEMO!
 https://hf.co/spaces/Astrodeism/CV-Praetorian-Guard
 
+**above:** paste your cv (remove sensitive data)
+
+**below:** paste the job posting
+
+**right side:** copy and paste everything into your preferred ai chat (most powerful option, if available)
+
+
+
 ---
 # 🚀 HOW TO USE
 
