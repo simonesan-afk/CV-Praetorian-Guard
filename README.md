@@ -18,7 +18,7 @@
 
 **right side:** copy and paste everything into your preferred ai chat (most powerful option, if available)
 
-Click here to start demo!  https://hf.co/spaces/Astrodeism/CV-Praetorian-Guard    
+Click here to start demo!  https://hf.co/spaces/Astrodeism/CV-Praetorian-Guard    of if you prefer sci-fi style https://simonesan-afk.github.io/
 
 
 ---
