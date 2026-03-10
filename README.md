@@ -10,7 +10,7 @@
 ![Maintained By](https://img.shields.io/badge/maintained_by-FRIULANIKA_CORP.-purple)
 
 ---
-# 🚀 FREE !
+# 🚀 FOREVER  FREE LICENSE (MIT) !
 
 **above:** paste your cv (remove sensitive data)
 
