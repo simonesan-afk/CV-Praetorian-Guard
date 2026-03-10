@@ -9,16 +9,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Maintained By](https://img.shields.io/badge/maintained_by-FRIULANIKA_CORP.-purple)
 
----
-# 🚀 FOREVER  FREE LICENSE (MIT) !
 
-**above:** paste your cv (remove sensitive data)
-
-**below:** paste the job posting
-
-**right side:** copy and paste everything into your preferred ai chat (most powerful option, if available)
-
-Click here to start demo!  https://hf.co/spaces/Astrodeism/CV-Praetorian-Guard    or if you prefer sci-fi style https://simonesan-afk.github.io/
 
 
 ---
