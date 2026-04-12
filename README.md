@@ -2,6 +2,7 @@
 
 > **FOREVER FREE, Heuristic, Data-Driven Resume Evaluation Engine (System Prompt)**
 
+☕ [Buy me a coffee](https://buymeacoffee.com/simonenespl) if this helped you.
 
 > *Created by **FRIULANIKA CORP.** — "The future is inevitable"*
 
@@ -79,7 +80,7 @@ This project is licensed under the **MIT License**.
 
 ---
 *ALWAYS CHECK AI OUT FOR YOUR SAFETY*
-
+☕ [Buy me a coffee](https://buymeacoffee.com/simonenespl) if this helped you.
 ---
  *Created by **FRIULANIKA CORP.** — "The future is inevitable"* 
 
