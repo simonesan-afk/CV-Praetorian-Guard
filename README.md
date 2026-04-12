@@ -2,16 +2,9 @@
 
 > **FOREVER FREE, Heuristic, Data-Driven Resume Evaluation Engine (System Prompt)**
 
-☕ [Buy me a coffee](https://buymeacoffee.com/simonenespl) if this helped you.
-
-> *Created by **FRIULANIKA CORP.** — "The future is inevitable"*
-
 ![Version](https://img.shields.io/badge/version-5.5_STABLE-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Maintained By](https://img.shields.io/badge/maintained_by-FRIULANIKA_CORP.-purple)
-
-
-
 
 ---
 # 🚀 HOW TO USE THE PROMPT
@@ -80,6 +73,7 @@ This project is licensed under the **MIT License**.
 
 ---
 *ALWAYS CHECK AI OUT FOR YOUR SAFETY*
+
 ☕ [Buy me a coffee](https://buymeacoffee.com/simonenespl) if this helped you.
 ---
  *Created by **FRIULANIKA CORP.** — "The future is inevitable"* 
