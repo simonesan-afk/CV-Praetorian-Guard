@@ -30,7 +30,7 @@ Follow these steps to initialize the evaluation engine:
 
 **PRAETOR v5.5** is an advanced System Prompt designed for Large Language Models (LLMs) like ChatGPT, Claude, Gemin, etc, etc
 
-Developed by Friulanika Corp., it acts as a heuristic engine to analyze the alignment between a **Curriculum Vitae (CV)** and a **Job Description (JD)**. Unlike standard AI summaries, PRAETOR uses a strict scoring logic, enforces privacy protocols, and applies anti-bias context to career gaps
+Developed by SIMONE NESPOLO, it acts as a heuristic engine to analyze the alignment between a **Curriculum Vitae (CV)** and a **Job Description (JD)**. Unlike standard AI summaries, PRAETOR uses a strict scoring logic, enforces privacy protocols, and applies anti-bias context to career gaps
 
 ### Key Features
 
@@ -60,7 +60,7 @@ The total score (100 points) is calculated as follows:
 
 This project is licensed under the **MIT License**.
 
-> **Ethical Note:** While the MIT license permits broad use of the software, **Friulanika Corp.** strongly advises against using this prompt for automated rejection of candidates in a professional hiring context. The logic is tuned for **self-assessment** and **educational feedback**, not for making employment decisions.
+> **Ethical Note:** While the MIT license permits broad use of the software, **SIMONE NESPOLO** strongly advises against using this prompt for automated rejection of candidates in a professional hiring context. The logic is tuned for **self-assessment** and **educational feedback**, not for making employment decisions.
 
 ### ⚠️ LEGAL & ETHICAL DISCLAIMER (READ FIRST)
 
