@@ -67,7 +67,7 @@ This project is licensed under the **MIT License**.
 **THIS TOOL IS DESIGNED FOR EDUCATIONAL AND PERSONAL REFLECTION ONLY.**
 
 1.  **NOT FOR HIRING:** This tool provides a heuristic simulation. It must **NOT** be used for candidate screening, ranking, filtering, or comparison. Always check AI outputs for your safety.
-2.  **NO LIABILITY:** This prompt is provided "as-is". The author (Friulanika Corp.) and contributors assume no liability for outcomes based on this tool.
+2.  **NO LIABILITY:** This prompt is provided "as-is". The author (SIMONE NESPOLO) and contributors assume no liability for outcomes based on this tool.
 3.  **PRIVACY WARNING:** Do not upload unredacted personal data (PII) to public LLMs. **Always remove names, phones, emails, and addresses before use**.
 
 ---
