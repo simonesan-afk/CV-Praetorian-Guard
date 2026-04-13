@@ -4,7 +4,6 @@
 
 ![Version](https://img.shields.io/badge/version-5.5_STABLE-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Maintained By](https://img.shields.io/badge/maintained_by-FRIULANIKA_CORP.-purple)
 
 ---
 # 🚀 HOW TO USE THE PROMPT
@@ -76,5 +75,5 @@ This project is licensed under the **MIT License**.
 
 ☕ [Buy me a coffee](https://buymeacoffee.com/simonenespl) if this helped you.
 ---
- *Created by **FRIULANIKA CORP.** — "The future is inevitable"* 
+ *Created by **SIMONE NESPOLO** — "The future is inevitable"* 
 
