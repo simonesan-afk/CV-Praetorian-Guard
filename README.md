@@ -89,15 +89,6 @@ PRAETOR generates a structured markdown report with:
 * **ATS keyword analysis**
 * **Practical fixes to improve the CV**
 
----
-
-# 📁 EXAMPLE FILES
-
-* **EXAMPLE_OUTPUT.md**
-* **EXAMPLE_REPORT.md**
-
----
-
 # 🔍 KEY FEATURES
 
 ## 🔒 Privacy-First Logic
