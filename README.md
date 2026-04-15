@@ -1,181 +1,140 @@
-````md
-# 🛡️ PRAETOR v5.5
-## Free Privacy-First AI Resume Match Engine for CV vs Job Description
+🛡️ PRAETOR v5.5
+Free Privacy-First AI Resume Match Engine for CV vs Job Description
 
-**PRAETOR** is a free heuristic prompt engine that helps you evaluate how well your **CV matches a target Job Description**.
+PRAETOR is a free heuristic prompt engine that helps you evaluate how well your CV matches a target Job Description.
 
-It is designed for **self-assessment and educational feedback**, not for hiring decisions.  
-It returns a **structured score**, highlights **missing skills and ATS gaps**, flags **weak impact statements**, and suggests **tactical improvements**.
+It is designed for self-assessment and educational feedback, not for hiring decisions.
+It returns a structured score, highlights missing skills and ATS gaps, flags weak impact statements, and suggests tactical improvements.
 
----
-
-## 🚀 HOW TO USE THE PROMPT
+🚀 HOW TO USE THE PROMPT
 
 Follow these steps to initialize the evaluation engine:
 
-### 📋 Copy the Prompt
-Copy the entire content of the file [`v5.5 STABLE.txt`](./v5.5%20STABLE.txt).
+📋 Copy the Prompt
 
-### 🤖 Initialize the AI
-Paste the text into a new chat session with your preferred LLM  
+Copy the entire content of the file v5.5 STABLE.txt.
+
+🤖 Initialize the AI
+
+Paste the text into a new chat session with your preferred LLM
 (ChatGPT, Claude, Gemini, etc.).
 
-### 🤝 Wait for the Handshake
+🤝 Wait for the Handshake
+
 The system will reply with:
 
-```text
 👋 PRAETOR v5.5 Ready.
-````
 
-### 📥 Input Data
+📥 Input Data
 
-Paste your **REDACTED CV** and the target **Job Description**.
+Paste your REDACTED CV and the target Job Description.
 
-### 📊 Review Report
+📊 Review Report
 
 PRAETOR will generate a detailed markdown report with:
 
-* a **score**
-* a **trust level**
-* **tactical fixes**
-* **ATS observations**
-* **impact and experience analysis**
-
----
-
-## Overview
+a score
+a trust level
+tactical fixes
+ATS observations
+impact and experience analysis
+Overview
 
 PRAETOR v5.5 is an advanced system prompt for Large Language Models (LLMs) such as ChatGPT, Claude, and Gemini.
 
-Developed by **SIMONE NESPOLO**, it acts as a heuristic engine to analyze the alignment between a **Curriculum Vitae (CV)** and a **Job Description (JD)**. Unlike generic AI summaries, PRAETOR uses a structured scoring logic, enforces privacy precautions, and applies anti-bias context to career gaps.
+Developed by SIMONE NESPOLO, it acts as a heuristic engine to analyze the alignment between a Curriculum Vitae (CV) and a Job Description (JD). Unlike generic AI summaries, PRAETOR uses a structured scoring logic, enforces privacy precautions, and applies anti-bias context to career gaps.
 
----
-
-## Why use PRAETOR?
-
-* **Score your CV against a Job Description**
-* **Detect missing hard skills and ATS keywords**
-* **Check whether your impact is measurable**
-* **Handle career gaps with anti-bias logic**
-* **Warn you if you pasted unsafe personal data**
-
----
-
-## What you get
+Why use PRAETOR?
+Score your CV against a Job Description
+Detect missing hard skills and ATS keywords
+Check whether your impact is measurable
+Handle career gaps with anti-bias logic
+Warn you if you pasted unsafe personal data
+What you get
 
 PRAETOR generates a structured markdown report with:
 
-* **Match score /100**
-* **Trust level**
-* **Hard skills coverage**
-* **Experience relevance**
-* **Quantified impact check**
-* **ATS keyword analysis**
-* **Practical fixes to improve the CV**
-
----
-
-## Example Files
-
-* [`EXAMPLE_OUTPUT.md`](./EXAMPLE_OUTPUT.md)
-* [`EXAMPLE_REPORT.md`](./EXAMPLE_REPORT.md)
-
----
-
-## Key Features
-
-### 🔒 Privacy-First Logic
+Match score /100
+Trust level
+Hard skills coverage
+Experience relevance
+Quantified impact check
+ATS keyword analysis
+Practical fixes to improve the CV
+Example Files
+EXAMPLE_OUTPUT.md
+EXAMPLE_REPORT.md
+Key Features
+🔒 Privacy-First Logic
 
 Automatically detects and flags Personal Identifiable Information (PII) if accidentally included, advising the user to redact it.
 
-### ⚖️ Anti-Bias Experience Scoring
+⚖️ Anti-Bias Experience Scoring
 
 Recognizes human context. Career gaps longer than 6 months labeled as caregiving, health, or education are not automatically penalized.
 
-### 🧠 Heuristic Scoring Model
+🧠 Heuristic Scoring Model
 
 Provides an indicative score out of 100 based on four pillars:
 
-* **Hard Skills**
-* **Experience**
-* **Quantified Impact**
-* **ATS Optimization**
-
-### 🎓 Educational Feedback
+Hard Skills
+Experience
+Quantified Impact
+ATS Optimization
+🎓 Educational Feedback
 
 Instead of just saying “bad resume,” it explains why and provides tactical fixes.
 
----
-
-## Scoring Logic
-
-| Component   | Points | Description                                                                       |
-| ----------- | -----: | --------------------------------------------------------------------------------- |
-| Hard Skills |     40 | Semantic matching of critical skills found in the Job Description                 |
-| Experience  |     30 | Relevance of history and continuity, including anti-bias logic for explained gaps |
-| Impact      |     20 | Presence of quantified metrics such as %, $, growth, efficiency, or output        |
-| ATS Check   |     10 | Keyword presence check for automated screening systems                            |
-
----
-
-## Intended Use
+Scoring Logic
+Component	Points	Description
+Hard Skills	40	Semantic matching of critical skills found in the Job Description
+Experience	30	Relevance of history and continuity, including anti-bias logic for explained gaps
+Impact	20	Presence of quantified metrics such as %, $, growth, efficiency, or output
+ATS Check	10	Keyword presence check for automated screening systems
+Intended Use
 
 PRAETOR is built for:
 
-* personal CV review
-* job application preparation
-* resume rewriting support
-* educational reflection on strengths and gaps
+personal CV review
+job application preparation
+resume rewriting support
+educational reflection on strengths and gaps
 
-It is **not** built for:
+It is not built for:
 
-* candidate screening
-* automated hiring decisions
-* ranking applicants
-* rejecting candidates
-* replacing human judgment
+candidate screening
+automated hiring decisions
+ranking applicants
+rejecting candidates
+replacing human judgment
+License & Ethical Use
 
----
+This project is licensed under the MIT License.
 
-## License & Ethical Use
+Ethical Note: While the MIT License permits broad use of the software, SIMONE NESPOLO strongly advises against using this prompt for automated rejection of candidates in a professional hiring context. The logic is tuned for self-assessment and educational feedback, not for making employment decisions.
 
-This project is licensed under the **MIT License**.
+⚠️ LEGAL & ETHICAL DISCLAIMER (READ FIRST)
 
-**Ethical Note:** While the MIT License permits broad use of the software, **SIMONE NESPOLO** strongly advises against using this prompt for automated rejection of candidates in a professional hiring context. The logic is tuned for **self-assessment and educational feedback**, not for making employment decisions.
+THIS TOOL IS DESIGNED FOR EDUCATIONAL AND PERSONAL REFLECTION ONLY.
 
----
-
-## ⚠️ LEGAL & ETHICAL DISCLAIMER (READ FIRST)
-
-**THIS TOOL IS DESIGNED FOR EDUCATIONAL AND PERSONAL REFLECTION ONLY.**
-
-* **NOT FOR HIRING:** This tool provides a heuristic simulation. It must **NOT** be used for candidate screening, ranking, filtering, comparison, or rejection.
-* **NO LIABILITY:** This prompt is provided **"as-is"**. The author (**SIMONE NESPOLO**) and contributors assume no liability for outcomes based on this tool.
-* **PRIVACY WARNING:** Do not upload unredacted personal data (PII) to public LLMs. Always remove names, phone numbers, email addresses, and home addresses before use.
-* **ALWAYS CHECK AI OUTPUTS FOR YOUR SAFETY.**
-
----
-
-## Contributing
+NOT FOR HIRING: This tool provides a heuristic simulation. It must NOT be used for candidate screening, ranking, filtering, comparison, or rejection.
+NO LIABILITY: This prompt is provided "as-is". The author (SIMONE NESPOLO) and contributors assume no liability for outcomes based on this tool.
+PRIVACY WARNING: Do not upload unredacted personal data (PII) to public LLMs. Always remove names, phone numbers, email addresses, and home addresses before use.
+ALWAYS CHECK AI OUTPUTS FOR YOUR SAFETY.
+Contributing
 
 Suggestions, improvements, and responsible feedback are welcome.
 
 Please read:
 
-* [`CONTRIBUTING.md`](./CONTRIBUTING.md)
-* [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md)
-* [`SECURITY.md`](./SECURITY.md)
-
----
-
-## Support
+CONTRIBUTING.md
+CODE_OF_CONDUCT.md
+SECURITY.md
+Support
 
 If PRAETOR helped you, consider starring the repo or sharing it.
 
-☕ **Buy me a coffee:** [buymeacoffee.com/simonenespl](https://buymeacoffee.com/simonenespl)
+☕ Buy me a coffee: buymeacoffee.com/simonenespl
 
-Created by **SIMONE NESPOLO**
-*“The future is inevitable”*
-
-```
-```
+Created by SIMONE NESPOLO
+The future is inevitable
