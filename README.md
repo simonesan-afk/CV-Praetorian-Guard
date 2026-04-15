@@ -1,4 +1,4 @@
-Sì. Ti lascio la **versione pulita finale**, con piccoli fix di ritmo e leggibilità.
+
 
 # 🛡️ PRAETOR v5.5
 
