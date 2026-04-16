@@ -1,6 +1,10 @@
 
 
 # 🛡️ PRAETOR v5.5
+![Author: Simone Nespolo](https://img.shields.io/badge/Author-Simone%20Nespolo-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Open Source](https://img.shields.io/badge/Open%20Source-yes-brightgreen)
+![Free](https://img.shields.io/badge/Free-100%25-orange)
 
 ## Free Privacy-First AI Resume Match Engine
 
