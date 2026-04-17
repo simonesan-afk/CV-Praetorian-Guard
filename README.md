@@ -1,4 +1,4 @@
-![GitHub Tip](https://img.shields.io/badge/Tip-Don%27t%20be%20afraid%2C%20GitHub%20is%20easy%20to%20use%20-%20just%20read!-f48024)
+![GitHub Tip](https://img.shields.io/badge/Tip-Don’t%20be%20afraid,%20GitHub%20is%20easy%20to%20use%20—%20just%20read!-f48024)
 
 # 🛡️ PRAETOR v5.5
 ![Author: Simone Nespolo](https://img.shields.io/badge/Author-Simone%20Nespolo-0A84FF)
