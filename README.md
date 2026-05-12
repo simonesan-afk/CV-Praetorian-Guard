@@ -190,12 +190,7 @@ Please read:
 
 ---
 
-# ☕ SUPPORT
 
-If PRAETOR helped you, consider **starring the repo** or **sharing it**.
-
-**Buy me a coffee:**
-**buymeacoffee.com/simonenespl**
 
 ---
 
