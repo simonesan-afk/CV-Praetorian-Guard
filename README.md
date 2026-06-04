@@ -66,7 +66,7 @@ PRAETOR will generate a structured markdown report with:
 
 # 📖 OVERVIEW
 
-PRAETOR v5.5 is an advanced system prompt for Large Language Models such as **ChatGPT, Claude, and Gemini**.
+PRAETOR v5.5 is an advanced system prompt for Large Language Models. 
 
 Developed by **SIMONE NESPOLO**, it acts as a heuristic engine to analyze the alignment between a **Curriculum Vitae (CV)** and a **Job Description (JD)**.
 
