@@ -1,6 +1,6 @@
 ![GitHub Tip](https://img.shields.io/badge/Tip-Don’t%20be%20afraid,%20GitHub%20is%20easy%20to%20use%20—%20just%20read!-f48024)
 
-# 🛡️ PRAETOR v5.5
+# 🛡️ PRAETOR v6.0 STABLE
 ![Author: Simone Nespolo](https://img.shields.io/badge/Author-Simone%20Nespolo-0A84FF)
 ![License: MIT](https://img.shields.io/badge/License-MIT-34C759)
 ![Open Source](https://img.shields.io/badge/Open%20Source-YES-30D5C8)
@@ -28,7 +28,7 @@ Follow these steps to initialize the evaluation engine.
 
 Copy the entire content of the file:
 
-**v5.5 STABLE.txt**   The file is just above; you need to scroll back up.
+**v6.0 STABLE.txt**   The file is just above; you need to scroll back up.
 
 ## 🤖 2. Initialize the AI
 
@@ -66,7 +66,7 @@ PRAETOR will generate a structured markdown report with:
 
 # 📖 OVERVIEW
 
-PRAETOR v5.5 is an advanced system prompt for Large Language Models. 
+PRAETOR v6.0 is an advanced system prompt for Large Language Models. 
 
 Developed by **SIMONE NESPOLO**, it acts as a heuristic engine to analyze the alignment between a **Curriculum Vitae (CV)** and a **Job Description (JD)**.
 
