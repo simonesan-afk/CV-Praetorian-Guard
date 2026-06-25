@@ -5,6 +5,11 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-34C759)
 ![Open Source](https://img.shields.io/badge/Open%20Source-YES-30D5C8)
 ![Free](https://img.shields.io/badge/Free-100%25-FF9500)
+---
+> PRAETOR is free and always will be. If it helped you land a job, consider a coffee. ☕
+> 
+> <a href="https://buymeacoffee.com/simonenespl"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45"></a>
+---
 
 
 
