@@ -193,8 +193,6 @@ Please read:
 * **CODE_OF_CONDUCT.md**
 * **SECURITY.md**
 
----
-Free to use https://buymeacoffee.com/simonenespl
 
 
 ---
