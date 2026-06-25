@@ -1,6 +1,6 @@
 ![GitHub Tip](https://img.shields.io/badge/Tip-Don’t%20be%20afraid,%20GitHub%20is%20easy%20to%20use%20—%20just%20read!-f48024)
 
-# 🛡️ PRAETOR v6.0 STABLE
+# 🛡️ PRAETOR v6.0 
 ![Author: Simone Nespolo](https://img.shields.io/badge/Author-Simone%20Nespolo-0A84FF)
 ![License: MIT](https://img.shields.io/badge/License-MIT-34C759)
 ![Open Source](https://img.shields.io/badge/Open%20Source-YES-30D5C8)
@@ -43,7 +43,7 @@ Paste the prompt into a new chat session with your preferred LLM:
 
 The system will reply with:
 
-**👋 PRAETOR v5.5 Ready.**
+**👋 PRAETOR v6.0 Ready.**
 
 ## 📥 4. Input Your Data
 
