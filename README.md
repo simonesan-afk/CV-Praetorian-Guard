@@ -179,7 +179,7 @@ The logic is tuned for **self-assessment and educational feedback**, not for mak
 ---
 
 # 🤝 CONTRIBUTING
-
+Free to use https://buymeacoffee.com/simonenespl
 Suggestions, improvements, and responsible feedback are welcome.
 
 Please read:
@@ -189,7 +189,7 @@ Please read:
 * **SECURITY.md**
 
 ---
-
+Free to use https://buymeacoffee.com/simonenespl
 
 
 ---
