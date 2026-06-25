@@ -33,7 +33,7 @@ Follow these steps to initialize the evaluation engine.
 
 Copy the entire content of the file:
 
-**v6.0 STABLE.txt**   The file is just above; you need to scroll back up.
+**v6.0.txt**   The file is just above; you need to scroll back up.
 
 ## 🤖 2. Initialize the AI
 
