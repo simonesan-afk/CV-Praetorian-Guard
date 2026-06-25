@@ -164,7 +164,7 @@ PRAETOR is **not** built for:
 
 This project is licensed under the **MIT License**.
 
-**Ethical Note:** While the MIT License permits broad use of the software, **SIMONE NESPOLO** strongly advises against using this prompt for automated rejection of candidates in a professional hiring context.
+**Ethical Note:** While the MIT License permits broad use of the software, we strongly advises against using this prompt for automated rejection of candidates in a professional hiring context.
 
 The logic is tuned for **self-assessment and educational feedback**, not for making employment decisions.
 
@@ -177,7 +177,7 @@ The logic is tuned for **self-assessment and educational feedback**, not for mak
 **THIS TOOL IS DESIGNED FOR EDUCATIONAL AND PERSONAL REFLECTION ONLY.**
 
 * **NOT FOR HIRING:** This tool provides a heuristic simulation. It must **NOT** be used for candidate screening, ranking, filtering, comparison, or rejection.
-* **NO LIABILITY:** This prompt is provided **"as-is"**. The author (**SIMONE NESPOLO**) and contributors assume no liability for outcomes based on this tool.
+* **NO LIABILITY:** This prompt is provided **"as-is"**. The author and contributors assume no liability for outcomes based on this tool.
 * **PRIVACY WARNING:** Do not upload unredacted personal data (**PII**) to public LLMs. Always remove names, phone numbers, email addresses, and home addresses before use.
 * **ALWAYS CHECK AI OUTPUTS FOR YOUR SAFETY.**
 
@@ -196,7 +196,5 @@ Please read:
 
 
 ---
-
-Created by **SIMONE NESPOLO**
 *The future is inevitable*
 
