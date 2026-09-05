@@ -1,8 +1,8 @@
-# 🛡️ PRAETOR: CV Self-Assessment Helper (v5.5 STABLE)
+# 🛡️ PRAETOR: CV Self-Assessment Helper (v6.0 STABLE)
 
 > **FOREVER FREE, Heuristic, Data-Driven Resume Evaluation Engine (System Prompt)**
 
-![Version](https://img.shields.io/badge/version-5.5_STABLE-blue)
+![Version](https://img.shields.io/badge/version-6.0_STABLE-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Maintained By](https://img.shields.io/badge/maintained_by-FRIULANIKA_CORP.-purple)
 
@@ -12,7 +12,7 @@
 Follow these steps to initialize the evaluation engine:
 
 1.  **📋 Copy the Prompt**
-    Copy the entire content of the file `v5.5 STABLE.txt`.
+    Copy the entire content of the file `v6.0 STABLE.txt`.
 
 2.  **🤖 Initialize the AI**
     Paste the text into a new chat session with your preferred LLM (ChatGPT-4, Claude 3, etc.).
@@ -29,7 +29,7 @@ Follow these steps to initialize the evaluation engine:
 
 ### Overview
 
-**PRAETOR v5.5** is an advanced System Prompt designed for Large Language Models (LLMs) like ChatGPT, Claude, Gemin, etc, etc
+**PRAETOR v6.0** is an advanced System Prompt designed for Large Language Models (LLMs) like ChatGPT, Claude, Gemin, etc, etc
 
 Developed by Friulanika Corp., it acts as a heuristic engine to analyze the alignment between a **Curriculum Vitae (CV)** and a **Job Description (JD)**. Unlike standard AI summaries, PRAETOR uses a strict scoring logic, enforces privacy protocols, and applies anti-bias context to career gaps
 
