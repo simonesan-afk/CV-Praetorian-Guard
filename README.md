@@ -1,94 +1,205 @@
-# 🛡️ PRAETOR v7.1: CV Self-Assessment Helper
+🛡️ PRAETOR v7.1: CV Self-Assessment Helper
+FOREVER FREE, Heuristic, Document-Aligned CV Analysis System Prompt
 
-> **FOREVER FREE, Heuristic, Document-Aligned CV Analysis System Prompt**
+Version 7.1 | MIT License | Maintained by Simone Nespolo
 
-![Version](https://img.shields.io/badge/version-7.1-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Maintained by](https://img.shields.io/badge/maintained%20by-Simone%20Nespolo-purple)
 
----
+🚀 HOW TO USE THE PROMPT
+🔐 Privacy First: What to Redact Before Submitting
+Remove these from your CV before pasting into any AI system:
 
-# 🚀 HOW TO USE THE PROMPT
+Full name (use initials or "CV")
+Phone number, email address
+Home address / city of residence
+Identification numbers (tax ID, passport)
+Photographs
+Names and contact info of references
 
-Follow these steps to initialize PRAETOR:
+Keep your job titles, companies, dates, skills, and accomplishments.
 
-1. **📋 Copy the Prompt**
-   Copy the entire content of the current **PRAETOR v7.1** prompt file from the repository.
 
-2. **🤖 Initialize the AI**
-   Paste the text into a new chat session with your preferred LLM (ChatGPT, Claude, Gemini, DeepSeek, etc.).
+5 Steps to Run PRAETOR
+📋 Copy the Prompt Copy the entire content of the PRAETOR v7.1 System Prompt.
 
-3. **🤝 Wait for the Handshake**
-   The system will reply with:
+🤖 Initialize the AI Paste the text into a new chat session with your preferred LLM (ChatGPT, Claude, Gemini, DeepSeek, etc.).
 
-   > `👋 PRAETOR v7.1 Ready.`
+🤝 Wait for the Handshake The system will reply with:
 
-4. **📥 Input Data**
-   Paste your **REDACTED CV** and the target **Job Description (JD)**.
+👋 PRAETOR v7.1 Ready.
 
-5. **📊 Review the Report**
-   PRAETOR will generate a document-alignment report including an indicative score, alignment band, coherence level, evidence analysis, and tactical fixes.
+⚠️ PRIVACY STOP: Before sharing your CV, redact unnecessary personal information...
 
-### Overview
+Provide your Redacted CV and the Job Description when ready.
 
-**PRAETOR v7.1** is an advanced System Prompt designed for Large Language Models (LLMs) such as ChatGPT, Claude, Gemini, DeepSeek, and similar systems.
+📥 Input Data Paste your REDACTED CV and the target Job Description (JD) together.
 
-Developed by Simone Nespolo, PRAETOR is designed to analyze the textual and semantic alignment between **one individual's own Curriculum Vitae (CV)** and **one Job Description (JD)**.
+📊 Review the Report
 
-Unlike a generic AI resume evaluator, PRAETOR applies explicit document-boundary rules, privacy safeguards, anti-bias protections, heuristic scoring, and uncertainty handling.
+Indicative alignment score (0–100)
+Alignment band (S/A/B/C)
+Coherence level analysis
+Evidence-based observations
+Tactical fixes for documentation
 
-> **DOCUMENT ALIGNMENT, NOT PERSON EVALUATION**
 
-PRAETOR analyzes the **document** and its relationship to the Job Description. It does **not** measure the value, worth, employability, personality, or potential of the person behind the CV.
+📥 WHERE TO GET PRAETOR v7.1
+Choose one distribution channel:
 
-### Key Features
+GitHub: [Your GitHub repository URL]
+Zenodo: [Your Zenodo record URL]
+Gumroad: [Your Gumroad product URL]
+Direct: Copy the full system prompt below
 
-* **🔒 Privacy-First Logic:** Detects the presence of unnecessary Personal Identifiable Information (PII), avoids reproducing it, and advises the user to redact sensitive information before submitting material to an AI system.
-* **⚖️ Anti-Bias Experience Analysis:** Career gaps, caregiving, health-related absences, parental leave, non-linear careers, career transitions, and retraining are not treated as negative evidence. Timeline documentation gaps may be noted neutrally but do not reduce the score solely because they exist.
-* **🧠 Heuristic Scoring Model:** Provides an indicative document-to-JD alignment score out of 100 based on four dimensions:
 
-  * Hard Skills Coverage
-  * Experience Relevance
-  * Evidence / Impact
-  * Keyword Visibility / ATS
-* **🎓 Educational Feedback:** Provides document-focused observations and tactical improvements rather than judgments about the person. The goal is clearer, more relevant, better-supported documentation.
+Overview
+PRAETOR v7.1 is an advanced System Prompt for Large Language Models:
 
-### Scoring Logic
+ChatGPT / OpenAI
+Claude / Anthropic
+Gemini / Google
+DeepSeek
+Similar LLM services
 
-The total score (100 points) is calculated as follows:
+Developed by Simone Nespolo, PRAETOR analyzes the textual and semantic alignment between one individual's own CV and one Job Description.
 
-| Component | Points | Description |
-| :--- | :--- | :--- |
-| **Hard Skills** | **40** | Semantic coverage of relevant skills and requirements identified in the JD. |
-| **Experience** | **30** | Relevance of documented experience, responsibilities, domain/context, and explicitly stated seniority. |
-| **Evidence / Impact** | **20** | Presence and quality of concrete evidence, outcomes, contributions, achievements, and documented scope. |
-| **Keyword Visibility / ATS** | **10** | Approximate visibility of important JD terminology and keywords within the CV. |
+Unlike generic resume evaluators, PRAETOR applies:
 
-> **Important:** The score measures **document-to-JD alignment only**. It is not a score of the person and must not be interpreted as a hiring recommendation.
+Explicit document-boundary rules
+Privacy safeguards
+Anti-bias protections
+Heuristic scoring
+Uncertainty handling
 
----
+DOCUMENT ALIGNMENT, NOT PERSON EVALUATION
 
-### License & Ethical Use
+PRAETOR analyzes the document and its relationship to the JD. It does not measure the value, worth, employability, personality, or potential of the person.
 
-This project is licensed under the **MIT License**.
 
-> **Ethical Note:** The MIT license permits broad use of the project, but PRAETOR v7.1 is specifically designed for **personal educational self-assessment** of an individual's own CV. It is not designed or intended for candidate screening, ranking, filtering, comparison, hiring recommendations, or employment decision-making.
+Key Features
+🔒 Privacy-First Logic
 
-PRAETOR should not be used to evaluate another person's CV for recruitment or selection purposes.
+Detects PII, avoids reproducing it, advises redaction before sharing with AI systems.
 
-### ⚠️ LEGAL & ETHICAL DISCLAIMER (READ FIRST)
+⚖️ Anti-Bias Experience Analysis
 
-**THIS TOOL IS DESIGNED FOR EDUCATIONAL AND PERSONAL REFLECTION ONLY.**
+Career gaps, caregiving, health absences, parental leave, non-linear careers are not treated as negative signals.
 
-1. **NOT FOR HIRING:** PRAETOR provides a heuristic document-alignment analysis. It must **NOT** be used to screen, rank, filter, compare, select, reject, or recommend candidates, nor to make, justify, or support employment decisions.
-2. **DOCUMENT, NOT PERSON:** PRAETOR does not assess personal worth, employability, character, performance probability, or suitability for employment. Its score, bands, and observations refer only to the supplied CV and its textual alignment with the supplied JD.
-3. **PRIVACY WARNING:** Do not submit unnecessary or unredacted personal data to an AI service. **Remove names, phone numbers, email addresses, home addresses, identification numbers, photographs, and other unnecessary PII before use.** Follow the privacy and data-retention settings of the AI service you choose.
-4. **HUMAN VERIFICATION:** AI-generated analysis may contain errors, omissions, incorrect semantic matches, or misleading interpretations. **Always review the output yourself and verify important conclusions against the original documents.**
+🧠 Heuristic Scoring Model
 
----
+Indicative document-to-JD alignment score (0–100) based on:
 
-## *ALWAYS CHECK AI OUT FOR YOUR SAFETY*
+Hard Skills Coverage (40 points)
+Experience Relevance (30 points)
+Evidence / Impact (20 points)
+Keyword Visibility / ATS (10 points)
 
----
+🎓 Educational Feedback
 
-*Created by **Simone Nespolo** — "The future is inevitable"*
+Document-focused observations and tactical improvements, not judgments about the person.
+
+🎨 Non-Commercial Sector Awareness
+
+For art, academia, research, NGOs: evaluates evidence (exhibitions, publications, grants) on its own terms, not commercial KPI benchmarks.
+
+
+Scoring Logic
+Component
+Points
+Description
+Hard Skills Coverage
+40
+Semantic coverage of relevant skills in the JD.
+Experience Relevance
+30
+Relevance of documented experience and context.
+Evidence / Impact
+20
+Concrete evidence of outcomes and achievements.
+Keyword Visibility / ATS
+10
+Visibility of important JD terminology.
+
+
+Important: The score measures document-to-JD alignment only. It is NOT a score of the person and NOT a hiring recommendation.
+
+
+⚠️ Important Clarification
+This tool is heuristic and educational.
+
+✅ OK to use for:
+
+Personal self-assessment of your own CV
+Reflecting on your documentation
+Sharing with friends for their own self-assessment
+
+❌ NOT OK to use for:
+
+Screening another person's CV
+Ranking or comparing candidates
+Making hiring decisions
+Evaluating job applicants
+
+If you use PRAETOR for anything other than personal self-assessment, you violate its intended design and accept full responsibility.
+
+
+License & Ethical Use
+This project is licensed under the MIT License.
+
+Ethical Note: The MIT license permits broad use and modification, but PRAETOR v7.1 is specifically designed for personal educational self-assessment. It is NOT designed for candidate screening, ranking, comparison, hiring recommendations, or employment decision-making.
+
+PRAETOR should NOT be used to evaluate another person's CV for recruitment or selection.
+
+
+⚠️ LEGAL & ETHICAL DISCLAIMER (READ FIRST)
+THIS TOOL IS DESIGNED FOR EDUCATIONAL AND PERSONAL REFLECTION ONLY.
+1. NOT FOR HIRING
+PRAETOR must NOT be used to:
+
+Screen, rank, filter, or compare candidates
+Select, reject, or recommend candidates
+Make, justify, or support employment decisions
+Predict hiring probability or employment outcomes
+2. DOCUMENT, NOT PERSON
+PRAETOR does not assess:
+
+Personal worth or value
+Employability or suitability for employment
+Character, talent, or potential
+Probability of success in a role
+
+Its score and observations refer only to the CV document and its textual alignment with the JD.
+3. PRIVACY WARNING
+Do not submit unredacted personal data to any AI service.
+
+Remove before use:
+
+Names, phone numbers, email addresses
+Home addresses / city of residence
+Identification numbers (tax ID, passport, SSN)
+Photographs
+Family/health details
+
+Follow the privacy and data-retention settings of your AI service.
+4. HUMAN VERIFICATION REQUIRED
+AI-generated analysis may contain:
+
+Errors or omissions
+Incorrect semantic matches
+Misleading interpretations
+Misaligned scoring
+
+Always review output yourself and verify conclusions against the original documents.
+
+
+⚠️ ALWAYS CHECK AI OUTPUT FOR YOUR SAFETY
+
+What If Someone Misuses PRAETOR?
+If someone uses this tool to screen, rank, or make hiring decisions:
+
+✅ You are not responsible for their misuse
+✅ PRAETOR was designed for self-assessment only (documented here)
+✅ They bear full responsibility for their actions
+✅ The creator accepts zero liability for misuse
+
+Misusing this tool for hiring violates its intended design.
+
