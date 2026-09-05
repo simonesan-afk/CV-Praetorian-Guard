@@ -205,7 +205,7 @@ Always review output yourself and verify conclusions against the original docume
 
 If someone uses this tool to screen, rank, or make hiring decisions:
 
-- ✅ You are not responsible for their misuse
+- ✅ We are not responsible for their misuse
 - ✅ PRAETOR was designed for self-assessment only (documented here)
 - ✅ They bear full responsibility for their actions
 - ✅ The creator accepts zero liability for misuse
