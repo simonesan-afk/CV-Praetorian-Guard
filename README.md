@@ -61,7 +61,7 @@ The total score (100 points) is calculated as follows:
 
 This project is licensed under the **MIT License**.
 
-> **Ethical Note:** While the MIT license permits broad use of the software, **Friulanika Corp.** strongly advises against using this prompt for automated rejection of candidates in a professional hiring context. The logic is tuned for **self-assessment** and **educational feedback**, not for making employment decisions.
+> **Ethical Note:** While the MIT license permits broad use of the software, **Simone Nespolo** strongly advises against using this prompt for automated rejection of candidates in a professional hiring context. The logic is tuned for **self-assessment** and **educational feedback**, not for making employment decisions.
 
 ### ⚠️ LEGAL & ETHICAL DISCLAIMER (READ FIRST)
 
@@ -76,5 +76,5 @@ This project is licensed under the **MIT License**.
 
 ☕ [Buy me a coffee](https://buymeacoffee.com/simonenespl) if this helped you.
 ---
- *Created by **FRIULANIKA CORP.** — "The future is inevitable"* 
+ *Created by **Simone Nespolo** — "The future is inevitable"* 
 
