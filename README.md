@@ -4,7 +4,7 @@
 
 ![Version](https://img.shields.io/badge/version-6.0_STABLE-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Maintained By](https://img.shields.io/badge/maintained_by-Simone Nespolo.-purple)
+![Maintained by](https://img.shields.io/badge/maintained%20by-Simone%20Nespolo-purple)
 
 ---
 # 🚀 HOW TO USE THE PROMPT
