@@ -52,15 +52,6 @@ Paste your REDACTED CV and the target Job Description (JD) together.
 
 ## 📥 **WHERE TO GET PRAETOR v7.1**
 
-Choose one distribution channel:
-
-- GitHub: [Your GitHub repository URL]
-- Zenodo: [Your Zenodo record URL]
-- Gumroad: [Your Gumroad product URL]
-- Direct: Copy the full system prompt below
-
----
-
 ## **Overview**
 
 PRAETOR v7.1 is an advanced System Prompt for Large Language Models:
