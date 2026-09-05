@@ -20,7 +20,7 @@ Remove these from your CV before pasting into any AI system:
 
 Keep your job titles, companies, dates, skills, and accomplishments.
 
-### **5 Steps to Run PRAETOR**
+### ** Steps to Run PRAETOR**
 
 📋 **Copy the Prompt**  
 Copy the entire content of the PRAETOR v7.1 System Prompt.
