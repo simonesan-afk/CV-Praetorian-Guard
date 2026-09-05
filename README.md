@@ -15,11 +15,11 @@ Follow these steps to initialize the evaluation engine:
     Copy the entire content of the file `v6.0 STABLE.txt`(is in the list UP)
 
 2.  **🤖 Initialize the AI**
-    Paste the text into a new chat session with your preferred LLM (ChatGPT-4, Claude 3, etc.).
+    Paste the text into a new chat session with your preferred LLM (ChatGPT, Claude, Gemini, Deepseek...etc.).
 
 3.  **🤝 Wait for the Handshake**
     The system will reply with:
-    > `👋 PRAETOR v5.5 Ready.`
+    > `👋 PRAETOR v7.1 Ready.`
 
 4.  **📥 Input Data**
     Paste your **REDACTED CV** and the target **Job Description**.
@@ -29,9 +29,9 @@ Follow these steps to initialize the evaluation engine:
 
 ### Overview
 
-**PRAETOR v6.0** is an advanced System Prompt designed for Large Language Models (LLMs) like ChatGPT, Claude, Gemin, etc, etc
+**PRAETOR v7.1** is an advanced System Prompt designed for Large Language Models (LLMs) like ChatGPT, Claude, Gemini, etc, etc
 
-Developed by Friulanika Corp., it acts as a heuristic engine to analyze the alignment between a **Curriculum Vitae (CV)** and a **Job Description (JD)**. Unlike standard AI summaries, PRAETOR uses a strict scoring logic, enforces privacy protocols, and applies anti-bias context to career gaps
+Developed by Simone Nespolo, it acts as a heuristic engine to analyze the alignment between a **Curriculum Vitae (CV)** and a **Job Description (JD)**. Unlike standard AI summaries, PRAETOR uses a strict scoring logic, enforces privacy protocols, and applies anti-bias context to career gaps
 
 ### Key Features
 
