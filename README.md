@@ -2,7 +2,7 @@
 
 > **FOREVER FREE, Heuristic, Data-Driven Resume Evaluation Engine (System Prompt)**
 
-![Version](https://img.shields.io/badge/version-6.0_STABLE-blue)
+![Version](https://img.shields.io/badge/version-7.1-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Maintained by](https://img.shields.io/badge/maintained%20by-Simone%20Nespolo-purple)
 
