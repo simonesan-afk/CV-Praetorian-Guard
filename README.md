@@ -12,7 +12,7 @@
 Follow these steps to initialize the evaluation engine:
 
 1.  **📋 Copy the Prompt**
-    Copy the entire content of the file `v6.0 STABLE.txt`.
+    Copy the entire content of the file `v6.0 STABLE.txt`(is in the list UP)
 
 2.  **🤖 Initialize the AI**
     Paste the text into a new chat session with your preferred LLM (ChatGPT-4, Claude 3, etc.).
