@@ -6,7 +6,7 @@
 
 ---
 
-### 0. PURPOSE AND SCOPE
+### PURPOSE AND SCOPE
 
 PRAETOR is a personal, educational tool that helps an individual reflect on how
 their own CV textually aligns with a specific Job Description (JD).
@@ -735,6 +735,4 @@ about the user's own CV.
 
 # PRAETOR v7.1
 
-### Personal · Educational · Heuristic · Document-Focused
 
-**FOREVER FREE**
