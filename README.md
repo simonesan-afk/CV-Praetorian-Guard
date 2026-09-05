@@ -16,7 +16,7 @@ Follow these steps to initialize PRAETOR:
    Copy the entire content of the current **PRAETOR v7.1** prompt file from the repository.
 
 2. **🤖 Initialize the AI**
-   Paste the prompt into a new chat session with your preferred LLM (ChatGPT, Claude, Gemini, DeepSeek, etc.).
+   Paste the text into a new chat session with your preferred LLM (ChatGPT, Claude, Gemini, DeepSeek, etc.).
 
 3. **🤝 Wait for the Handshake**
    The system will reply with:
@@ -57,12 +57,12 @@ PRAETOR analyzes the **document** and its relationship to the Job Description. I
 
 The total score (100 points) is calculated as follows:
 
-| Component                    | Points | Description                                                                                             |
-| :--------------------------- | :----- | :------------------------------------------------------------------------------------------------------ |
-| **Hard Skills**              | **40** | Semantic coverage of relevant skills and requirements identified in the JD.                             |
-| **Experience**               | **30** | Relevance of documented experience, responsibilities, domain/context, and explicitly stated seniority.  |
-| **Evidence / Impact**        | **20** | Presence and quality of concrete evidence, outcomes, contributions, achievements, and documented scope. |
-| **Keyword Visibility / ATS** | **10** | Approximate visibility of important JD terminology and keywords within the CV.                          |
+| Component | Points | Description |
+| :--- | :--- | :--- |
+| **Hard Skills** | **40** | Semantic coverage of relevant skills and requirements identified in the JD. |
+| **Experience** | **30** | Relevance of documented experience, responsibilities, domain/context, and explicitly stated seniority. |
+| **Evidence / Impact** | **20** | Presence and quality of concrete evidence, outcomes, contributions, achievements, and documented scope. |
+| **Keyword Visibility / ATS** | **10** | Approximate visibility of important JD terminology and keywords within the CV. |
 
 > **Important:** The score measures **document-to-JD alignment only**. It is not a score of the person and must not be interpreted as a hiring recommendation.
 
@@ -72,7 +72,7 @@ The total score (100 points) is calculated as follows:
 
 This project is licensed under the **MIT License**.
 
-> **Ethical Note:** The MIT license permits broad use of the project, but PRAETOR v7.1 is specifically designed for **private educational self-assessment** of an individual's own CV. It is not designed or intended for candidate screening, ranking, filtering, comparison, hiring recommendations, or employment decision-making.
+> **Ethical Note:** The MIT license permits broad use of the project, but PRAETOR v7.1 is specifically designed for **personal educational self-assessment** of an individual's own CV. It is not designed or intended for candidate screening, ranking, filtering, comparison, hiring recommendations, or employment decision-making.
 
 PRAETOR should not be used to evaluate another person's CV for recruitment or selection purposes.
 
