@@ -5,6 +5,7 @@ Version 7.1 | MIT License | Maintained by Simone Nespolo
 
 
 🚀 HOW TO USE THE PROMPT
+
 🔐 Privacy First: What to Redact Before Submitting
 Remove these from your CV before pasting into any AI system:
 
