@@ -48,9 +48,6 @@ Paste your REDACTED CV and the target Job Description (JD) together.
 - Evidence-based observations
 - Tactical fixes for documentation
 
----
-
-## 📥 **WHERE TO GET PRAETOR v7.1**
 
 ## **Overview**
 
