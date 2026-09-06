@@ -54,6 +54,7 @@ Paste your REDACTED CV and the target Job Description (JD) together.
 PRAETOR v7.1 is an advanced System Prompt for Large Language Models:
 
 - ChatGPT / OpenAI
+- Grock
 - Claude / Anthropic
 - Gemini / Google
 - DeepSeek
