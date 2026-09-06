@@ -146,15 +146,13 @@ This project is licensed under the MIT License.
 PRAETOR should NOT be used to evaluate another person's CV for recruitment or selection.
 
 ---
-
 # ⚠️ **LEGAL & ETHICAL DISCLAIMER (READ FIRST)**
 
 **THIS TOOL IS DESIGNED FOR EDUCATIONAL AND PERSONAL REFLECTION ONLY.**
 
 ### **1. NOT FOR HIRING**
 
-PRAETOR must NOT be used to:
-
+PRAETOR must **NOT** be used to:
 - Screen, rank, filter, or compare candidates
 - Select, reject, or recommend candidates
 - Make, justify, or support employment decisions
@@ -162,21 +160,19 @@ PRAETOR must NOT be used to:
 
 ### **2. DOCUMENT, NOT PERSON**
 
-PRAETOR does not assess:
-
+PRAETOR does **not** assess:
 - Personal worth or value
 - Employability or suitability for employment
 - Character, talent, or potential
 - Probability of success in a role
 
-Its score and observations refer only to the CV document and its textual alignment with the JD.
+Its score and observations refer **only** to the CV document and its textual alignment with the JD.
 
 ### **3. PRIVACY WARNING**
 
 Do not submit unredacted personal data to any AI service.
 
 **Remove before use:**
-
 - Names, phone numbers, email addresses
 - Home addresses / city of residence
 - Identification numbers (tax ID, passport, SSN)
@@ -187,26 +183,17 @@ Follow the privacy and data-retention settings of your AI service.
 
 ### **4. HUMAN VERIFICATION REQUIRED**
 
-AI-generated analysis may contain:
-
-- Errors or omissions
-- Incorrect semantic matches
-- Misleading interpretations
-- Misaligned scoring
-
-Always review output yourself and verify conclusions against the original documents.
+AI-generated analysis may contain errors, omissions, incorrect matches, or misleading interpretations.  
+**Always review the output yourself** and verify conclusions against the original documents.
 
 ---
 
-# ⚠️ **ALWAYS CHECK AI OUTPUT FOR YOUR SAFETY**
+### **Misuse Disclaimer**
 
-## **What If Someone Misuses PRAETOR?**
+If someone uses PRAETOR to screen, rank, or make hiring decisions:
+- We are **not** responsible for their misuse
+- PRAETOR is designed **only** for self-assessment (as documented above)
+- The user of the tool bears full responsibility
+- The creator accepts **zero liability** for any misuse
 
-If someone uses this tool to screen, rank, or make hiring decisions:
-
-- ✅ We are not responsible for their misuse
-- ✅ PRAETOR was designed for self-assessment only (documented here)
-- ✅ They bear full responsibility for their actions
-- ✅ The creator accepts zero liability for misuse
-
-Misusing this tool for hiring violates its intended design.
+Misusing this tool for hiring violates its intended purpose.
