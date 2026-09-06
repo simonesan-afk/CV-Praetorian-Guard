@@ -47,7 +47,7 @@ Paste your REDACTED CV and the target Job Description (JD) together.
 
 ----------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------
-## **Overview**
+## **Technical Overview**
 
 PRAETOR v7.1 is an advanced System Prompt for Large Language Models:
 
