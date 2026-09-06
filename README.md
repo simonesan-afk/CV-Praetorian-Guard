@@ -1,5 +1,5 @@
 # 🛡️ **PRAETOR v7.1 CV Self-Assessment Helper**
-**FOREVER FREE, Heuristic, Document-Aligned CV Analysis System Prompt**
+**FOREVER FREE**
 
 [![Version](https://img.shields.io/badge/version-7.1-blue)](https://github.com/) [![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT) [![Maintained by](https://img.shields.io/badge/maintained%20by-Simone%20Nespolo-purple)](https://github.com/)
 
