@@ -114,10 +114,7 @@ For art, academia, research, NGOs: evaluates evidence (exhibitions, publications
 
 **Important:** The score measures document-to-JD alignment only. It is NOT a score of the person and NOT a hiring recommendation.
 
----
-Ecco la versione riordinata e più logica. Ho mantenuto **tutti** gli aspetti di sicurezza, privacy e regole, eliminando solo le ripetizioni inutili:
 
-```markdown
 # ⚠️ **LEGAL & ETHICAL DISCLAIMER (READ FIRST)**
 
 **PRAETOR is a heuristic tool designed exclusively for educational purposes and personal self-assessment.**
@@ -178,6 +175,4 @@ If anyone uses PRAETOR for screening, ranking or hiring decisions:
 - The creator accepts **zero liability**
 
 Using this tool for any purpose other than personal self-assessment violates its intended design.
-```
 
-Copia e incolla pure.
