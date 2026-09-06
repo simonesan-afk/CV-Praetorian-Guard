@@ -115,85 +115,69 @@ For art, academia, research, NGOs: evaluates evidence (exhibitions, publications
 **Important:** The score measures document-to-JD alignment only. It is NOT a score of the person and NOT a hiring recommendation.
 
 ---
+Ecco la versione riordinata e più logica. Ho mantenuto **tutti** gli aspetti di sicurezza, privacy e regole, eliminando solo le ripetizioni inutili:
 
-## ⚠️ **Important Clarification**
-
-This tool is heuristic and educational.
-
-### ✅ **OK to use for:**
-
-- Personal self-assessment of your own CV
-- Reflecting on your documentation
-- Sharing with friends for their own self-assessment
-
-### ❌ **NOT OK to use for:**
-
-- Screening another person's CV
-- Ranking or comparing candidates
-- Making hiring decisions
-- Evaluating job applicants
-
-If you use PRAETOR for anything other than personal self-assessment, you violate its intended design and accept full responsibility.
-
----
-
-## **License & Ethical Use**
-
-This project is licensed under the MIT License.
-
-**Ethical Note:** The MIT license permits broad use and modification, but PRAETOR v7.1 is specifically designed for personal educational self-assessment. It is NOT designed for candidate screening, ranking, comparison, hiring recommendations, or employment decision-making.
-
-PRAETOR should NOT be used to evaluate another person's CV for recruitment or selection.
-
----
+```markdown
 # ⚠️ **LEGAL & ETHICAL DISCLAIMER (READ FIRST)**
 
-**THIS TOOL IS DESIGNED FOR EDUCATIONAL AND PERSONAL REFLECTION ONLY.**
+**PRAETOR is a heuristic tool designed exclusively for educational purposes and personal self-assessment.**
 
-### **1. NOT FOR HIRING**
+### ✅ **OK to use for**
+- Personal self-assessment of **your own** CV
+- Reflecting on your documentation
+- Sharing with friends for **their own** self-assessment
 
-PRAETOR must **NOT** be used to:
-- Screen, rank, filter, or compare candidates
-- Select, reject, or recommend candidates
-- Make, justify, or support employment decisions
-- Predict hiring probability or employment outcomes
-
-### **2. DOCUMENT, NOT PERSON**
-
-PRAETOR does **not** assess:
-- Personal worth or value
-- Employability or suitability for employment
-- Character, talent, or potential
-- Probability of success in a role
-
-Its score and observations refer **only** to the CV document and its textual alignment with the JD.
-
-### **3. PRIVACY WARNING**
-
-Do not submit unredacted personal data to any AI service.
-
-**Remove before use:**
-- Names, phone numbers, email addresses
-- Home addresses / city of residence
-- Identification numbers (tax ID, passport, SSN)
-- Photographs
-- Family/health details
-
-Follow the privacy and data-retention settings of your AI service.
-
-### **4. HUMAN VERIFICATION REQUIRED**
-
-AI-generated analysis may contain errors, omissions, incorrect matches, or misleading interpretations.  
-**Always review the output yourself** and verify conclusions against the original documents.
+### ❌ **NOT OK to use for**
+- Screening another person’s CV
+- Ranking or comparing candidates
+- Making, justifying or supporting hiring decisions
+- Evaluating job applicants
+- Predicting hiring probability or employment outcomes
 
 ---
 
-### **Misuse Disclaimer**
+### **1. Document, Not Person**
+PRAETOR does **not** assess:
+- Personal worth or value
+- Employability or suitability for a role
+- Character, talent or potential
+- Probability of success
 
-If someone uses PRAETOR to screen, rank, or make hiring decisions:
-- We are **not** responsible for their misuse
-- PRAETOR is designed **only** for self-assessment (as documented above)
-- The user of the tool bears full responsibility
-- The creator accepts **zero liability** for any misuse
+Its score and observations refer **only** to the CV document and its textual alignment with the Job Description.
 
-Misusing this tool for hiring violates its intended purpose.
+### **2. Privacy Warning**
+Do **not** submit unredacted personal data to any AI service.
+
+**Always remove before use:**
+- Names, phone numbers, email addresses
+- Home addresses / city of residence
+- Identification numbers (tax ID, passport, SSN…)
+- Photographs
+- Family or health details
+
+Follow the privacy and data-retention settings of the AI service you use.
+
+### **3. Human Verification Required**
+AI-generated analysis may contain errors, omissions, incorrect matches or misleading interpretations.  
+**Always review the output yourself** and verify every conclusion against the original documents.
+
+---
+
+### **License & Ethical Use**
+This project is licensed under the **MIT License**.
+
+The MIT license permits broad use and modification, however **PRAETOR v7.1 is specifically designed only for personal educational self-assessment**.  
+It is **not** designed for candidate screening, ranking, comparison, hiring recommendations or any employment decision-making.
+
+---
+
+### **Misuse & Liability**
+If anyone uses PRAETOR for screening, ranking or hiring decisions:
+- We are **not** responsible for that misuse
+- The user of the tool accepts **full responsibility**
+- The creator accepts **zero liability**
+
+Using this tool for any purpose other than personal self-assessment violates its intended design.
+```
+
+Copia e incolla pure.
