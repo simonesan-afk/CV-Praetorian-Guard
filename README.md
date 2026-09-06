@@ -23,7 +23,7 @@ Copy the entire content of the PRAETOR v7.1 System Prompt.
 You can find the content here on this page. It is a text: PRAETOR v7.1.
 
 🤖 **Initialize the AI**  
-Paste the text into a new chat session with your preferred LLM (ChatGPT, Claude, Grock, Gemini, DeepSeek, etc.).
+Paste the text into a new chat session with your preferred LLM (ChatGPT, Claude, Grok, Gemini, DeepSeek, etc.).
 
 🤝 **Wait for the Handshake**  
 The system will reply with:
@@ -52,7 +52,7 @@ Paste your REDACTED CV and the target Job Description (JD) together.
 PRAETOR v7.1 is structured system prompt/heuristic framework for LLM-based CV self-assessments:
 
 - ChatGPT / OpenAI
-- Grock
+- Grok
 - Claude / Anthropic
 - Gemini / Google
 - DeepSeek
