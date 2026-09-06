@@ -20,6 +20,7 @@ Keep your job titles, companies, dates, skills, and accomplishments.
 
 📋 **Copy the Prompt**  
 Copy the entire content of the PRAETOR v7.1 System Prompt.
+You can find the content here on this page. It is a text: PRAETOR v7.1.
 
 🤖 **Initialize the AI**  
 Paste the text into a new chat session with your preferred LLM (ChatGPT, Claude, Grock, Gemini, DeepSeek, etc.).
