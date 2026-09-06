@@ -49,7 +49,7 @@ Paste your REDACTED CV and the target Job Description (JD) together.
 ----------------------------------------------------------------------------------------
 ## **Technical Overview**
 
-PRAETOR v7.1 is structured system prompt/heuristic framework for LLM-based CV self-assessments:
+PRAETOR v7.1 is a structured system prompt and heuristic framework for LLM-based CV self-assessment.
 
 - ChatGPT / OpenAI
 - Grok
